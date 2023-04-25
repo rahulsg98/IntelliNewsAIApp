@@ -1,0 +1,17 @@
+#root, html, body {
+    height: 100vh;
+    background: url('../src/images/back1.png');
+}
+
+body {
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
